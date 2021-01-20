@@ -1,0 +1,82 @@
+.navbar-brand {
+font-size: 40px !important;
+font-family: 'Vesper Libre', serif;
+font-weight: 600;
+margin-bottom: -1%;
+padding-left: 2.5%;
+}
+h2 {
+    font-family: 'Vesper Libre', serif;
+    padding-bottom: 0.5% !important;
+    color: crimson;
+    font-weight: 700 !important;
+}
+h3{
+    font-family: 'Vesper Libre', serif;
+    padding-top: 12px !important;
+    padding-bottom: 0px !important;
+    font-weight: 600 !important;
+    color: rgb(243, 59, 83);
+}
+.nav-item{
+    background-color:rgb(245, 189, 78) ;
+    font-family: 'Vesper Libre', serif;
+    font-size: 19px;
+    font-weight: 500;
+    text-align: center;
+    border: solid black !important;
+   
+}
+.navbar-toggler:hover {
+    background-color: rgb(15, 15, 15)
+}
+.nav-item a:hover{
+    background-color: whitesmoke;
+}
+.navbar-dark .navbar-nav .nav-link{
+    color: black !important;
+   
+}
+.text-center{
+    padding: 2%;
+    
+}
+.content-cell{
+    background-color: rgb(174, 240, 240);
+}
+.content-cell >p{
+    padding: 3.5%;
+    padding-top: 0%;
+}
+@media (min-width: 992px)
+{
+.p1{
+    padding-left: 15px !important;
+    padding-right: 7.5px !important;
+}
+.p2{
+    padding-left: 7.5px !important;
+    padding-right: 7.5px !important;
+}
+.p3{
+    padding-left: 7.5px !important;
+    padding-right: 15px !important;
+}
+}
+@media (min-width: 768px) and (max-width: 992px)
+{
+    .p1{
+        padding-left: 15px !important;
+        padding-right: 7.5px !important;
+    }
+    .p2{
+        padding-left: 7.5px !important;
+        padding-right: 15px !important;
+    }
+}
+@media (min-width: 768px)
+{
+    .navbar-nav{
+        visibility: hidden !important;
+    }
+}
