@@ -1,9 +1,12 @@
-.navbar-brand {
+`.navbar-brand {
 font-size: 40px !important;
 font-family: 'Vesper Libre', serif;
 font-weight: 600;
 margin-bottom: -1%;
 padding-left: 2.5%;
+}
+p{
+    text-align: justify;
 }
 h2 {
     font-family: 'Vesper Libre', serif;
