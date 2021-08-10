@@ -6,7 +6,6 @@
 
 # Solutions
 
---------------
 
 
 - [Module -2 Solution](https://jaswanth1410.github.io/coursera-test/Module2-solutions/index.html)
